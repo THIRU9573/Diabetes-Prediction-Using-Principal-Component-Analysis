@@ -1,5 +1,5 @@
 # Diabetes-Prediction-Using-Principal-Component-Analysis
-using the various data to predict the diabetes people 
+ 
 Principal Component Analysis (PCA) can be used for diabetes prediction by reducing the number of variables in the dataset and identifying the most important ones. Here are the general steps for using PCA for diabetes prediction:
 
 Prepare the dataset: Gather a dataset with relevant features for diabetes prediction, such as age, BMI, glucose level, insulin level, etc.
